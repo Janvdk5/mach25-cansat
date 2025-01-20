@@ -1,6 +1,6 @@
 # Recovery 
 ## Overview
-Provide a brief description of the subsystem and its purpose.
+This recovery folder includes some rocketpy how-to's for future reference, although these models were not that useful for us this year.
 
 ## Features
 List the key features of the subsystem.
